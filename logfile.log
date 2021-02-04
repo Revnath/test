@@ -1,0 +1,60 @@
+2021-02-02 05:46:29,719 INFO  [Log] Application opened 
+2021-02-02 05:46:31,711 INFO  [Log] Login completed 
+2021-02-02 05:46:32,175 INFO  [Log] Logout completed 
+2021-02-02 05:46:32,175 INFO  [Log] Application Close 
+2021-02-02 05:48:31,855 INFO  [Log] Application opened 
+2021-02-02 05:48:33,748 INFO  [Log] Login completed 
+2021-02-02 05:48:34,130 INFO  [Log] Logout completed 
+2021-02-02 05:48:34,131 INFO  [Log] Application Close 
+2021-02-03 05:05:01,086 INFO  [Log] Application opened 
+2021-02-03 05:05:01,937 INFO  [Log] Login completed 
+2021-02-03 05:05:02,242 INFO  [Log] Logout completed 
+2021-02-03 05:05:02,242 INFO  [Log] Application Close 
+2021-02-03 05:05:21,276 INFO  [Log] Application opened 
+2021-02-03 05:05:21,964 INFO  [Log] Login completed 
+2021-02-03 05:05:21,964 INFO  [Log] Adding new Emp 
+2021-02-03 05:05:21,964 INFO  [Log] Delete an emp 
+2021-02-03 05:05:22,144 INFO  [Log] Logout completed 
+2021-02-03 05:05:22,144 INFO  [Log] Application Close 
+2021-02-03 05:27:17,365 INFO  [Log] Application opened 
+2021-02-03 05:27:18,080 INFO  [Log] Login completed 
+2021-02-03 05:27:18,287 INFO  [Log] Logout completed 
+2021-02-03 05:27:18,287 INFO  [Log] Application Close 
+2021-02-03 05:27:51,805 INFO  [Log] Application opened 
+2021-02-03 05:27:52,527 INFO  [Log] Login completed 
+2021-02-03 05:27:52,712 INFO  [Log] Logout completed 
+2021-02-03 05:27:52,712 INFO  [Log] Application Close 
+2021-02-03 05:28:12,773 INFO  [Log] Application opened 
+2021-02-03 05:28:13,509 INFO  [Log] Login completed 
+2021-02-03 05:28:13,693 INFO  [Log] Logout completed 
+2021-02-03 05:28:13,694 INFO  [Log] Application Close 
+2021-02-03 05:32:18,230 INFO  [Log] Application opened 
+2021-02-03 05:32:18,914 INFO  [Log] Login completed 
+2021-02-03 05:32:19,089 INFO  [Log] Logout completed 
+2021-02-03 05:32:19,090 INFO  [Log] Application Close 
+2021-02-03 05:32:46,153 INFO  [Log] Application opened 
+2021-02-03 05:32:46,835 INFO  [Log] Login completed 
+2021-02-03 05:32:47,024 INFO  [Log] Logout completed 
+2021-02-03 05:32:47,024 INFO  [Log] Application Close 
+2021-02-03 05:32:59,330 INFO  [Log] Application opened 
+2021-02-03 05:33:00,023 INFO  [Log] Login completed 
+2021-02-03 05:33:00,195 INFO  [Log] Logout completed 
+2021-02-03 05:33:00,195 INFO  [Log] Application Close 
+2021-02-03 19:14:12,460 INFO  [Log] Application opened 
+2021-02-03 19:14:13,245 INFO  [Log] Login completed 
+2021-02-03 19:14:13,245 INFO  [Log] Adding new Emp 
+2021-02-03 19:14:13,245 INFO  [Log] Delete an emp 
+2021-02-03 19:14:13,420 INFO  [Log] Logout completed 
+2021-02-03 19:14:13,420 INFO  [Log] Application Close 
+2021-02-03 19:14:59,399 INFO  [Log] Application opened 
+2021-02-03 19:15:00,108 INFO  [Log] Login completed 
+2021-02-03 19:15:00,108 INFO  [Log] Adding new Emp 
+2021-02-03 19:15:00,108 INFO  [Log] Delete an emp 
+2021-02-03 19:15:00,290 INFO  [Log] Logout completed 
+2021-02-03 19:15:00,290 INFO  [Log] Application Close 
+2021-02-03 19:15:47,381 INFO  [Log] Application opened 
+2021-02-03 19:15:48,057 INFO  [Log] Login completed 
+2021-02-03 19:15:48,057 INFO  [Log] Adding new Emp 
+2021-02-03 19:15:48,057 INFO  [Log] Delete an emp 
+2021-02-03 19:15:48,204 INFO  [Log] Logout completed 
+2021-02-03 19:15:48,204 INFO  [Log] Application Close 
